@@ -2,10 +2,9 @@
 - Copy the provided Python script (decompile.py) into your IDA Pro's Python directory.
 
 # Usage:
-1. Import the idaapi module in your Python script.
-2. Use the decompile_func function provided in the script to decompile a specific function.
-3. Pass the effective address (EA) of the function you want to decompile as an argument to the decompile_func function.
-4. The function returns the decompiled code of the specified function.
+1. Use the decompile_func function provided in the script to decompile a specific function.
+2. Pass the effective address (EA) of the function you want to decompile as an argument to the decompile_func function.
+3. The function returns the decompiled code of the specified function.
 
 # Example 
 ```py
